@@ -154,10 +154,10 @@ if __name__ == '__main__':
         gr.HTML("""
             <div class="center-container">
                 <div style="display: flex; justify-content: center;">
-                    <a href="https://github.com/ImPavloh/voiceit/blob/main/LICENSE" target="_blank">
+                    <a href="https://github.com/ImPavloh/rvc-tts/blob/main/LICENSE" target="_blank">
                         <img src="https://img.shields.io/github/license/impavloh/voiceit?style=for-the-badge&logo=github&logoColor=white" alt="License">
                     </a>
-                    <a href="https://github.com/impavloh/voiceit" target="_blank">
+                    <a href="https://github.com/ImPavloh/rvc-tts" target="_blank">
                         <img src="https://img.shields.io/badge/repository-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
                     </a>
                     <form action="https://www.paypal.com/donate" method="post" target="_blank">
