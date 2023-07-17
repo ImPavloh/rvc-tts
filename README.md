@@ -47,8 +47,6 @@ python app.py
 
 🤖  `app.py`: Python script. This will start the bot with the configuration and models.
 
-## ⚙️ Configuration
-
 ## ⚡ Optimizations
 
 Everything is optimized to ensure minimal RAM and CPU usage. The audio conversion uses the "PM" method, which is the fastest and only requires a CPU, without the need for a GPU. This makes running the bot on virtually any device/server possible.
