@@ -180,8 +180,8 @@ if __name__ == '__main__':
         with gr.Row():
             with gr.Column():
                 m1 = gr.Dropdown(label="📦 Voice Model", choices=list(model_functions.keys()), allow_custom_value=False, value="Ibai")
-                t1 = gr.Textbox(label="📝 Text to convert")
                 t2 = gr.Dropdown(label="⚙️ Voice style and language [Edge-TTS]", choices=voices, allow_custom_value=False, value="es-ES-AlvaroNeural-Male")
+                t1 = gr.Textbox(label="📝 Text to convert")
                 c1 = gr.Button("Convert", variant="primary")
                 a1 = gr.Audio(label="🔉 Converted Text", interactive=False)
 
