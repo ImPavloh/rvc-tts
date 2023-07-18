@@ -6,6 +6,11 @@
 <a href="https://twitter.com/ImPavloh" target="_blank"><img src="https://img.shields.io/badge/Pavloh-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 <h1>🎙️ An AI-Powered Text-to-Speech 🤖💬</h1>
+
+<h3><a href="https://github.com/ImPavloh/rvc-tts-discord-bot">Try the Discord Bot</a></h3>
+<a href="https://github.com/ImPavloh/rvc-tts-discord-bot"><img alt="English" src="https://i.imgur.com/hc6AbYN.png" width="50px" style="border-top-left-radius: 25px; border-bottom-left-radius: 25px;"></a>
+
+
 </div>
 
 ## 🌐 Online use
@@ -14,10 +19,17 @@
 
 - **https://huggingface.co/spaces/ImPavloh/RVC-TTS-Demo**
 
-
     *That's all!*
 
-## 🛠️ Local installation
+## 🤖 Discord use
+
+1. Go to this repository 
+
+- **https://github.com/ImPavloh/rvc-tts-discord-bot**
+
+2. Follow the Readme steps
+
+## 🛠️ Local use
 
 1. Clone the repository 🗂️
 ```bash
