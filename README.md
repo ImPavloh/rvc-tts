@@ -1,7 +1,5 @@
 <div align="center">
   
-![Logo](https://i.imgur.com/Dh8vuLR.png)
-  
 <a href="https://github.com/ImPavloh/rvc-tts" target="_blank"><img src="https://img.shields.io/github/license/impavloh/rvc-tts?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/ImPavloh" target="_blank"><img src="https://img.shields.io/badge/Pavloh-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
