@@ -3,15 +3,12 @@ PyNaCl
 demucs
 ffmpeg
 asyncio
-discord
 requests
 edge-tts
 setuptools
 torchcrepe
-discord.py
 onnxruntime
 tensorboard
-configparser
 tensorboardX
 scipy==1.9.3
 httpx==0.23.0
