@@ -5,7 +5,7 @@
 
 <h1>🎙️ An AI-Powered Text-to-Speech 🤖💬</h1>
 
-<h3><a href="https://github.com/ImPavloh/rvc-tts-discord-bot">Try the Discord Bot</a></h3>
+<h3><a href="https://github.com/ImPavloh/rvc-tts-discord-bot">Try VoiceMe! the Discord Bot</a></h3>
 <a href="https://github.com/ImPavloh/rvc-tts-discord-bot"><img alt="English" src="https://i.imgur.com/hc6AbYN.png" width="50px" style="border-top-left-radius: 25px; border-bottom-left-radius: 25px;"></a>
 
 
