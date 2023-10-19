@@ -3,7 +3,7 @@
 <a href="https://github.com/ImPavloh/rvc-tts" target="_blank"><img src="https://img.shields.io/github/license/impavloh/rvc-tts?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/ImPavloh" target="_blank"><img src="https://img.shields.io/badge/Pavloh-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-<h1>🎙️ An AI-Powered Text-to-Speech 🤖💬</h1>
+<h1>🎙️ An AI-Powered Text-to-Speech Bot 🤖💬</h1>
 
 <h3><a href="https://github.com/ImPavloh/rvc-tts-discord-bot">Try VoiceMe! the Discord Bot</a></h3>
 <a href="https://github.com/ImPavloh/rvc-tts-discord-bot"><img alt="English" src="https://i.imgur.com/hc6AbYN.png" width="50px" style="border-top-left-radius: 25px; border-bottom-left-radius: 25px;"></a>
@@ -13,19 +13,17 @@
 
 ## 🌐 Online use
 
-1. Go to Hugging Face 🤗
+> Go to Hugging Face 🤗
  
 - **https://huggingface.co/spaces/ImPavloh/RVC-TTS-Demo**
 
-    *That's all!*
+    *Yep, that's all!*
 
 ## 🤖 Discord use
 
-1. Go to this repository 
+> Go to this repository and follow the README steps.
 
 - **https://github.com/ImPavloh/rvc-tts-discord-bot**
-
-2. Follow the Readme steps
 
 ## 🛠️ Local use
 
@@ -55,7 +53,9 @@ pip install -r requirements.txt
             └── File.index
 ```
 
-5. Run the main script 🚀
+6. Configure the **config.ini** file with your preferences ⚙️
+   
+7. Run the main script 🚀
 ```bash
 python app.py
 ```
@@ -66,7 +66,7 @@ python app.py
 
 📑  `requirements.txt`: File containing all the Python dependencies needed for the bot to function.
 
-🤖  `app.py`: Python script. This will start the bot with the configuration and models.
+🤖  `app.py`: Python main script. This will start the gradio web-server.
 
 ## ⚡ Optimizations
 
