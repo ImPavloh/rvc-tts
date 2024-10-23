@@ -75,3 +75,6 @@ Everything is optimized to ensure minimal RAM and CPU usage. The audio conversio
 ## 📝 License
 
 By using this project, you agree to the [license](https://github.com/ImPavloh/rvc-tts/blob/main/LICENSE).
+
+> [!IMPORTANT]
+> Old code, use with caution (Gradio should be updated to a newer version)
